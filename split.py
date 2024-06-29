@@ -1,3 +1,3 @@
 import splitfolders
-dr = 'PSL_DataSet48*48'
-splitfolders.ratio(dr,"psldata" ,ratio=(0.8,0.2))
+dr = 'data100*100'
+splitfolders.ratio(dr,"psldata100*100" ,ratio=(0.8,0.2))
